@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		484CE59228D15C2700C46D41 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 484CE59128D15C2700C46D41 /* ImagePicker.swift */; };
 		4868E43C28D0B1BC00A4AAED /* Image_Picker_DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868E43B28D0B1BC00A4AAED /* Image_Picker_DemoApp.swift */; };
 		4868E43E28D0B1BC00A4AAED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4868E43D28D0B1BC00A4AAED /* ContentView.swift */; };
 		4868E44028D0B1BD00A4AAED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4868E43F28D0B1BD00A4AAED /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		484CE59128D15C2700C46D41 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		4868E43828D0B1BC00A4AAED /* Image Picker Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Picker Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4868E43B28D0B1BC00A4AAED /* Image_Picker_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image_Picker_DemoApp.swift; sourceTree = "<group>"; };
 		4868E43D28D0B1BC00A4AAED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				4868E43B28D0B1BC00A4AAED /* Image_Picker_DemoApp.swift */,
 				4868E43D28D0B1BC00A4AAED /* ContentView.swift */,
+				484CE59128D15C2700C46D41 /* ImagePicker.swift */,
 				4868E43F28D0B1BD00A4AAED /* Assets.xcassets */,
 				4868E44128D0B1BD00A4AAED /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				484CE59228D15C2700C46D41 /* ImagePicker.swift in Sources */,
 				4868E43E28D0B1BC00A4AAED /* ContentView.swift in Sources */,
 				4868E43C28D0B1BC00A4AAED /* Image_Picker_DemoApp.swift in Sources */,
 			);
