@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Firebase
 
 @main
 struct Image_Picker_DemoApp: App {
@@ -13,5 +14,9 @@ struct Image_Picker_DemoApp: App {
         WindowGroup {
             ContentView()
         }
+    }
+    
+    init() {
+        FirebaseApp.configure()
     }
 }

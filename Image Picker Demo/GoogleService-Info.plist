@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>800300481349-s7fb1372j9808mh5bbqhq1p4hkp92am5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.800300481349-s7fb1372j9808mh5bbqhq1p4hkp92am5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_gzBZm1jYZbNvU0vb-3ricx-Leq3hWzE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>800300481349</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>matomakeapp.Image-Picker-Demo</string>
+	<key>PROJECT_ID</key>
+	<string>fir-storage-demo-83641</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-storage-demo-83641.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:800300481349:ios:2033fb964addfb5b7f9c2c</string>
+</dict>
+</plist>
